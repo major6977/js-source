@@ -4,10 +4,10 @@
 // Types of Expressions
 
 // 1. Variable Declaration 
- let a;
+//  let a;
 
 // 2. Assign a value 
- a = 4;
+//  a = 4;
 
 //  Perform an evaluation that returns a single value 
 // b + c
